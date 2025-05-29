@@ -13,7 +13,7 @@ SignAi is a Chrome extension designed to make video content accessible for the d
 ---
 
 ## Demo Video
-Check out the demo of GestureGuru in action!
+Check out the demo of SignAi in action!
 
 [![SignAi Demo](https://img.youtube.com/watch?v=_YJ3bpG24RQ/0.jpg)](https://www.youtube.com/watch?v=_YJ3bpG24RQ)
 
@@ -27,7 +27,7 @@ Check out the demo of GestureGuru in action!
 
 ## Usage
 1. Open any video in your Chrome browser.
-2. The GestureGuru popup will appear, featuring a 3D avatar translating the video speech into sign language in real-time.
+2. The SignAi popup will appear, featuring a 3D avatar translating the video speech into sign language in real-time.
 3. Adjust settings as needed for the best experience.
 
 ---
