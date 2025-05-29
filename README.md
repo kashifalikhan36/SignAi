@@ -27,7 +27,7 @@ Check out the demo of GestureGuru in action!
 
 ## Usage
 1. Open any video in your Chrome browser.
-2. The GestureGuru popup will appear, featuring a 3D avatar translating the video speech into sign language in real-time.
+2. The SignAi popup will appear, featuring a 3D avatar translating the video speech into sign language in real-time.
 3. Adjust settings as needed for the best experience.
 
 ---
