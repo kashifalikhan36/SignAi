@@ -1,6 +1,6 @@
-# GestureGuru - Beta v1.0.0
+# SignAi
 
-GestureGuru is a Chrome extension designed to make video content accessible for the deaf and hard-of-hearing community by converting speech to sign language in real-time using a 3D avatar.
+SignAi is a Chrome extension designed to make video content accessible for the deaf and hard-of-hearing community by converting speech to sign language in real-time using a 3D avatar.
 
 ---
 
@@ -15,7 +15,7 @@ GestureGuru is a Chrome extension designed to make video content accessible for 
 ## Demo Video
 Check out the demo of GestureGuru in action!
 
-[![GestureGuru Demo](https://img.youtube.com/watch?v=_YJ3bpG24RQ/0.jpg)](https://www.youtube.com/watch?v=_YJ3bpG24RQ)
+[![SignAi Demo](https://img.youtube.com/watch?v=_YJ3bpG24RQ/0.jpg)](https://www.youtube.com/watch?v=_YJ3bpG24RQ)
 
 ---
 
@@ -33,12 +33,12 @@ Check out the demo of GestureGuru in action!
 ---
 
 ## Beta Disclaimer
-This is a beta stuff While fully functional, some features are still under development. Your feedback will help us improve and refine GestureGuru for the official release.
+This is beta stuff, While fully functional, some features are still under development. Your feedback will help us improve and refine SignAi for the official release.
 
 ---
 
 ## Feedback
-We value your input! Please submit bugs, feature requests, or general feedback through the [issues page](https://github.com/kashifalikhan36/Geasturegurus/issues).
+We value your input! Please submit bugs, feature requests, or general feedback through the [issues page](https://github.com/kashifalikhan36/SignAi/issues).
 
 ---
 
